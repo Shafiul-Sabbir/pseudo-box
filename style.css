@@ -7,6 +7,10 @@
             width:300px;
             height:200px
         }
+        .gf a:colored{
+            color: yellow;
+            font size:30px;
+        }
         h1:hover{
             color: blue;
             font-size: 700px;
