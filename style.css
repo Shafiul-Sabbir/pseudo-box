@@ -1,0 +1,52 @@
+        h1 {
+            background-color: aqua;
+            display: inline;
+            color:red;
+        }
+        button:hover{
+            width:300px;
+            height:200px
+        }
+        h1:hover{
+            color: blue;
+            font-size: 700px;
+        }
+        h2{
+            background-color: blue;
+        }
+        h3::after{
+            content:' hello bro';
+        }
+        li{
+            color: red;
+        }
+        li:first-child{
+            color: green;
+        }
+        li:last-child{
+            color: blue;
+        }
+        li:nth-child(4){
+            color: blueviolet;
+        }
+        li:nth-child(2n+1){
+            color:burlywood;
+        }
+        p{
+            background-color: brown;
+        }
+
+        span {
+            background-color: blueviolet;
+            
+        }
+
+        div {
+            background-color: yellow;
+            padding-top: 10px;
+            margin-top: 10px;
+            height: 250px;
+        }
+        a{
+            display: block;
+        }
